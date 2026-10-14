@@ -103,5 +103,6 @@ public class Main {
                 }
             }
         }
+        httpClient.close();
     }
 }
